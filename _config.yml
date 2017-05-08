@@ -1,15 +1,16 @@
 # Site settings
 title: Stylish Portfolio
-email: your-email@domain.com
+email: bjhenderson@mac.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Moving in or to Maryland? John Henderson is a local cheseapake blooded native who is passionate about helping
+  others throughout their realty transitions. Whether you're family is going and you need a bigger home, you 
+  hope to downsize, or you've relocated to our amazing area for work. John is here to work with you and support 
+  you in your real estate transitions. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # User setting
-owner: Start Bootstrap
+owner: John Henderson
 email: name@example.com
 facebook_username: example
 twitter_username: example
